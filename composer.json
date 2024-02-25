@@ -1,0 +1,23 @@
+{
+    "name": "chris-composer/tp5-helper",
+    "description": "thinkphp5 helper",
+    "homepage": "https://github.com/chris-composer/tp5-helper",
+    "license": "LGPL-3.0+",
+    "autoload": {
+        "psr-4": {
+            "ChrisComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chrisyu",
+            "email": "chrisyucrabapple@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "monolog/monolog": "^2.9",
+        "ext-posix": "*",
+        "ext-fileinfo": "*"
+    }
+}
