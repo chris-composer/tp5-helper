@@ -16,8 +16,6 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "monolog/monolog": "^2.9",
-        "ext-posix": "*",
-        "ext-fileinfo": "*"
+        "monolog/monolog": "^2.9"
     }
 }
